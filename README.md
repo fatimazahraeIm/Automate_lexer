@@ -24,4 +24,6 @@ Veuillez consulter le rapport et la video de démonstartion pour plus de détail
 
 ```sh
 python Automate.py
+```
+Automate_lexer
 
